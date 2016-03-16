@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EyeEye</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Prendre photo </string>
+    <string name="reponse">Réponse</string>
+    <string name="collection">Collection</string>
+    <string name="no_match">Pas de matching pour cette requête.</string>
+     
+
+</resources>
